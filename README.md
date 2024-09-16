@@ -10,8 +10,6 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivakumar-s-m)](https://git.io/streak-stats)
-
 
 <!--
 **Shiva-Kumar-S-M/Shiva-Kumar-S-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
