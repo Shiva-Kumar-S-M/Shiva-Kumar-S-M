@@ -4,8 +4,23 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">🔒🐧 Linux  | Web Development | Data Science | 🌐 Safeguarding the digital landscape | 
 </h3></br>
+<img align="right"  width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpNG5sbWV5bHF2a3ZwMGd3a2doNmR3bGtlcmYxaDRjemZ5cGVodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzWxW50V4W8Bq/giphy.webp">
 
 
+
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Shiva-Kumar-S-M&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+
+
+- 💬 **Let's talk about:**
+  - 🔭 I’m currently working on Something Cool!
+  - 💻 Python, C, Java-Script
+  - 🚀 GitHub Contributions & Open Source
+  - 📫 How to reach me shivukumar.iu@gmail.com
+    
 
 
 
